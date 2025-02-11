@@ -40,9 +40,9 @@ brew install lithium-labs/gitlith/gitlith
 
 After installation, simply run:
 ```sh
-$ bun index.ts
+bun index.ts
 # or 
-$ gitlith
+gitlith
 ```
 
 or use specific commands:
