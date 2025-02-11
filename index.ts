@@ -13,7 +13,7 @@ let keyHandlersEnabled = false;
 // Create the Blessed screen
 const screen = blessed.screen({
   smartCSR: true,
-  title: 'Git CLI UI',
+  title: 'GitLith',
   autoPadding: true,
   fullUnicode: true,
   handleUncaughtExceptions: true,
